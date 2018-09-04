@@ -1,0 +1,73 @@
+
+
+#pu_simple_image_annotation_frame {
+  position:relative;
+}
+
+
+.pu_simple_image_annotation_marker {
+ position:absolute;
+ top:0px;
+ left:0px;
+ color:red;
+ background:white;
+ width:32px;
+ height:32px;
+ border-radius:16px;
+ box-shadow: 5px 5px 18px #000;
+
+}
+.pu_simple_image_annotation_marker span {
+ font-size: 30px;
+}
+
+#simple_image_annotation-toolbar {
+  padding: 10px 10px;
+  width:250px;
+  border:solid 1px #DDD;
+  background:white;
+  border-radius: 10px;
+  position:absolute;
+  box-shadow: 5px 5px 8px #888888;
+  text-align:left;
+}
+#simple_image_annotation-toolbar .dashicons {
+  color:#888;
+  cursor:pointer;
+  font-size: 35px;
+  margin-right:20px;
+}
+#simple_image_annotation-toolbar a {
+  text-decoration:none;
+}
+#simple_image_annotation-toolbar-nav {
+  text-align:right;
+  width:100%;
+}
+
+.pu-simple-annotation-bubble {
+  background:white;
+  text-align:center;
+  padding:10px 15px;
+  display:none;
+  border:solid 1px #000;
+  border-radius:10px;
+  box-shadow: 0px 0px 18px #DDD;
+  position:absolute;
+  top:0px;
+}
+
+.pu-simple-annotation-list-meta {
+  font-size:0.8em;
+}
+
+.pu-simple-annotation-list-body {
+   text-align:left;
+   font-size:0.9em;
+   font-weight:bold;
+}
+
+
+
+
+
