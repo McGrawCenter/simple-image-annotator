@@ -1,6 +1,6 @@
 <?php
 /*
-	Plugin Name: Princeton Simple Image Annotation
+	Plugin Name: PU Simple Image Annotation
 	Plugin URI:
 	Description: Allow annotations to be placed on featured images by dragging a marker and sumitting an annotation.
 	Version: 1.0
